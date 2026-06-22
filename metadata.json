@@ -1,0 +1,6 @@
+{
+  "name": "Expenso",
+  "description": "A refined financial companion for tracking expenses with ease and clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "Finance Tracking"]
+}
